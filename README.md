@@ -24,7 +24,7 @@ This home lab is built around the LAMP stack (Linux, Apache, MySQL/MariaDB, PHP)
 <h3>Task 1: Set Up Fedora VM</h3>
 
 1. **Build Fedora VM**:
-   - If you haven't already, set up a clean Fedora virtual machine (VM)
+   - Firstly, Let's set up a clean Fedora virtual machine (VM)
 
 2. **Log in and Gain Root Access**:
    - Log in to the Fedora VM.
